@@ -24,10 +24,22 @@
     ],
     "experience": [
         {
+            "logo": "digilab.jpg",
+            "title_it": "Web Developer Scolarship @ DigiLab Sapienza",
+            "time_it": "2024 - Now",
+            "description_it": "Work as web developer at DigiLab Sapienza, a university laboratory focused on innovation and technology"
+        },
+        {
             "logo": "winch.webp",
             "title_it": "Steward @ Winch",
-            "time_it": "2023 - Now",
+            "time_it": "2023 - 2024",
             "description_it": "Work as steward at Stadio Olimpico in Rome during football matches and concerts"
+        },
+        {
+            "logo": "asi.jpg",
+            "time_it": "2018 - 2019",
+            "title_it": "CanSat Competition @ Italian Space Agency & E. Fermi High School",
+            "description_it": "Work as software developer in a team that partecipated in the CanSat competition organized by the Italian Space Agency"
         }
     ],
 

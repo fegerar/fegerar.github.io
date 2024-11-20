@@ -1,11 +1,6 @@
 {
     "project":[
-        {
-            "Title": "Analog Clock Reader",
-            "description_it": "Analog Clock Reader is a project that uses OpenCV to read the time from an analog clock",
-            "link": "assets/docs/clock.html",
-            "img": "assets/images/clock.png"
-        },
+        
         {
             "Title": "Custom Wireless Joystick Development with Arduino and Linux Integration",
             "description_it": "My thesis project, developed in collaboration with the Department of Computer, Control and Management Engineering of Sapienza University of Rome.",
@@ -34,3 +29,4 @@
 
     ] 
 }
+
