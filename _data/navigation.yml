@@ -24,7 +24,7 @@ main:
     url: https://medium.com/@fegerar
     
   - title: "CV"
-    url: /files/Curriculum_Vitae_Federico_Gerardi.pdf
+    url: https://github.com/fegerar/cv/releases/download/latest/cv.pdf
     
   # - title: "CV"
   #   url: /cv-json/
