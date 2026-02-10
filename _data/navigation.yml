@@ -9,25 +9,12 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?user=W9KO_UAAAAAJ
 
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
   - title: "Blog"
     url: https://medium.com/@fegerar
     
   - title: "CV"
     url: https://github.com/fegerar/cv/releases/download/latest/cv.pdf
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+
