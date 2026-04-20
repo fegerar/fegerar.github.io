@@ -16,3 +16,5 @@ I have spent one semester expanding my horizons through an Erasmus+ 🇪🇺 Exc
 Currently, I'm working as a Research Assistant at DigiLab Sapienza 🏺, and I'm working on my master's thesis about Soccer Analytics at ETH Zürich 🇨🇭.
 
 Let’s connect if you’re as excited about the future of sports analytics as I am!
+
+Check out my [photography blog](https://fegerar.github.io/yaf) 📷.
